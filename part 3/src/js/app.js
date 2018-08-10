@@ -8,7 +8,7 @@ App = {
             App.web3Provider = web3.currentProvider;
             web3 = new Web3(web3.currentProvider);
         } else {
-            App.web3Provider = new web3.providers.HttpProvider("https://rinkeby.infura.io/LEQtspgcuvyfF8zWn1rp");
+            App.web3Provider = new web3.providers.HttpProvider("https://localhost:8545");
             web3 = new Web3(App.web3Provider);
         }
 
