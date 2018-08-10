@@ -1,0 +1,24 @@
+{
+  "name": "solidity-playground",
+  "version": "1.0.0",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "lite-server",
+    "start": "nodemon server.js"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.3",
+    "lite-server": "^2.3.0"
+  },
+  "dependencies": {
+    "express": "^4.16.3",
+    "express-session": "^1.15.6",
+    "openzeppelin-solidity": "^1.11.0",
+    "truffle": "^4.1.13",
+    "truffle-hdwallet-provider": "0.0.6",
+    "web3": "1.0.0-beta.35"
+  }
+}

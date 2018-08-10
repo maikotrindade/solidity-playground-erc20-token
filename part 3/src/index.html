@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+</head>
+
+<body>
+
+    <div>
+        <h3>Add Product</h3>
+        Sku:
+        <input type="text" id="sku">
+        <br> Name:
+        <input type="text" id="name">
+        <br> Url:
+        <input type="text" id="url">
+        <br>
+        <button id="addproduct" type="button">Add Product</button>
+    </div>
+
+    <div>
+        <h3>Get Product</h3>
+        <button id="getproduct" type="button">Get Product</button>
+    </div>
+
+    <div>
+        <h3>Vote</h3>
+        Rating:
+        <input type="text" id="rating">
+        <br>
+        <button id="vote" type="button">Vote</button>
+    </div>
+
+    <div>
+        <h3>Get Counting</h3>
+        <button id="getcounting" type="button">Get Counting</button>
+    </div>
+
+    <div>
+        <h3>Get Results</h3>
+        <button id="getresults" type="button">Get Results</button>
+    </div>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/ethereum/web3.js/dist/web3.min.js"></script>
+    <script src="js/truffle-contract.js"></script>
+    <script src="js/app.js"></script>
+</body>
+
+</html>
