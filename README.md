@@ -5,16 +5,16 @@ ERC-20 came about as an attempt to provide a common set of features and interfac
 
 ### Source: 
 
-https://medium.com/@jgm.orinoco/understanding-erc-20-token-contracts-a809a7310aa5
-https://github.com/OpenZeppelin/openzeppelin-solidity/tree/master/contracts/token/ERC20
+https://medium.com/@jgm.orinoco/understanding-erc-20-token-contracts-a809a7310aa5  
+https://github.com/OpenZeppelin/openzeppelin-solidity/tree/master/contracts/token/ERC20  
 
 ## Environment 
-NodeJS <https://nodejs.org/en/>
-VSCode: <https://code.visualstudio.com/download>
+NodeJS <https://nodejs.org/en/>  
+VSCode: <https://code.visualstudio.com/download>  
 VSCode Solidity plugin <http://juan.blanco.ws/solidity-contracts-in-visual-studio-code/>
-Metamask <https://metamask.io/>
-Ganache <https://truffleframework.com/ganache>
-Truffle <https://github.com/trufflesuite/truffle>
-OpenZeppelin <https://github.com/OpenZeppelin/openzeppelin-solidity>
-Web3js <https://www.npmjs.com/package/web3-js>
-Infura <https://infura.io>
+Metamask <https://metamask.io/>  
+Ganache <https://truffleframework.com/ganache>  
+Truffle <https://github.com/trufflesuite/truffle>  
+OpenZeppelin <https://github.com/OpenZeppelin/openzeppelin-solidity>  
+Web3js <https://www.npmjs.com/package/web3-js>  
+Infura <https://infura.io>  
