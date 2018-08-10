@@ -10,11 +10,11 @@ https://github.com/OpenZeppelin/openzeppelin-solidity/tree/master/contracts/toke
 
 ## Environment 
 NodeJS <https://nodejs.org/en/>  
-VSCode: <https://code.visualstudio.com/download>  
-VSCode Solidity plugin <http://juan.blanco.ws/solidity-contracts-in-visual-studio-code/>
 Metamask <https://metamask.io/>  
 Ganache <https://truffleframework.com/ganache>  
 Truffle <https://github.com/trufflesuite/truffle>  
 OpenZeppelin <https://github.com/OpenZeppelin/openzeppelin-solidity>  
 Web3js <https://www.npmjs.com/package/web3-js>  
 Infura <https://infura.io>  
+Lite <https://www.npmjs.com/package/lite-server>  
+Nodemon <https://www.npmjs.com/package/nodemon>    
